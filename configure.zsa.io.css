@@ -1,0 +1,268 @@
+@-moz-document domain("configure.zsa.io") {
+body,
+input,
+header.dXueYX,
+.dbvZrd,
+.css-1fhf3k1-control {
+    background-color: #2e3436;
+    color: #eeeeec;
+}
+
+button {
+    color: #eeeeec;
+    background-color: #555753;
+}
+
+div.bIOPEb,
+button:hover {
+    color: #eeeeec;
+    background-color: #729fcf;
+}
+
+.rc-switch {
+    background-color: #555753;
+    border-color: #babdb6;
+}
+
+.rc-switch-checked {
+    background-color: #4e9a06;
+    border-color: #8ae234;
+}
+
+
+/* regular key */
+kbd.key.fDScuo > a > div {
+    background-color: #555753;
+}
+kbd.key.fDScuo {
+    background-color: #2e3436;
+}
+kbd.key.rocket > a > div > svg > path[fill="#FCFCFC"] {
+    fill: #555753;
+}
+kbd.key.rocket > a > div > svg > path.rocket-border[fill="#F4F4F4"] {
+    fill: #2e3436;
+}
+/* selected */
+kbd.key.emcNQF > a > div {
+    background-color: #888a85;
+    border-color: #babdb6;
+}
+kbd.key.emcNQF {
+    background-color: #555753;
+    border-color: #babdb6;
+}
+/* yellow key */
+kbd.key.gNxFnR > a > div {
+    background-color: #edd400;
+    color: #2e3436;
+}
+kbd.key.gNxFnR {
+    background-color: #c4a000;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path[fill="#fff1ba"] {
+    fill: #edd400;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path.rocket-border[fill="#f1e5b6"] {
+    fill: #c4a000;
+}
+/* selected */
+kbd.key.keGyaw > a > div {
+    background-color: #fce94f;
+    color: #2e3436;
+}
+kbd.key.keGyaw {
+    background-color: #edd400;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path[fill="#fff1ba"] {
+    fill: #fce94f;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path.rocket-border[fill="#f1e5b6"] {
+    fill: #edd400;
+}
+/* red key */
+kbd.key.ihxVbQ > a > div {
+    background-color: #cc0000;
+    color: #eeeeec;
+}
+kbd.key.ihxVbQ {
+    background-color: #a40000;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path[fill="#ffd1dc"] {
+    fill: #cc0000;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path.rocket-border[fill="#f7cad5"] {
+    fill: #a40000;
+}
+/* selected */
+kbd.key.emeUJR > a > div {
+    background-color: #ef2929;
+    color: #eeeeec;
+}
+kbd.key.emeUJR {
+    background-color: #cc0000;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path[fill="#ffd1dc"] {
+    fill: #ef2929;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path.rocket-border[fill="#f7cad5"] {
+    fill: #cc0000;
+}
+/* blue key */
+kbd.key.fuQuTY > a > div {
+    background-color: #3465a4;
+    color: #eeeeec;
+}
+kbd.key.fuQuTY {
+    background-color: #204a87;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path[fill="#e1ebff"] {
+    fill: #3465a4;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path.rocket-border[fill="#d5e1f9"] {
+    fill: #204a87;
+}
+/* selected */
+kbd.key.igDgQx > a > div {
+    background-color: #729fcf;
+    color: #eeeeec;
+}
+kbd.key.igDgQx {
+    background-color: #3465a4;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path[fill="#e1ebff"] {
+    fill: #729fcf;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path.rocket-border[fill="#d5e1f9"] {
+    fill: #3465a4;
+}
+/* green key */
+kbd.key.cVYKqy > a > div {
+    background-color: #73d216;
+    color: #2e3436;
+}
+kbd.key.cVYKqy {
+    background-color: #4e9a06
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path[fill="#ebffe1"] {
+    fill: #73d216;
+}
+kbd.key.rocket.fvKMnB > a > div > svg > path.rocket-border[fill="#e1f5d7"] {
+    fill: #4e9a06;
+}
+/* selected */
+kbd.key.wxSir > a > div {
+    background-color: #8ae234;
+    color: #2e3436;
+}
+kbd.key.wxSir {
+    background-color: #73d216;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path[fill="#ebffe1"] {
+    fill: #8ae234;
+}
+kbd.key.rocket.kGfVjV > a > div > svg > path.rocket-border[fill="#e1f5d7"] {
+    fill: #73d216;
+}
+
+
+
+span.CVTpG {
+    background-color: #4e9a06
+}
+
+header h1,
+a.sc-gsTCUz.ibggPU,
+a.sc-gsTCUz.kQVHcx,
+a.sc-gsTCUz.iFvezu,
+.hgYnit a.jwqXID,
+a.jwqXID:hover,
+a.gkCedA:hover,
+.modify-container a:hover {
+    color: #fcaf3e
+}
+
+a.jwqXID,
+a.gkCedA,
+.modify-container a {
+    color: #729fcf;
+}
+
+
+kbd.key.rocket .fqmAEA,
+/* rocket text */
+/*kbd.key.rocket .fSBUoA .esbyIi .CkkTB .bjOgbY, /* red rocket text */
+/*kbd.key.rocket .fSBUoA .esbyIi .CkkTB .bjOgbY, /* green rocket text */
+/*kbd.key.rocket ., /* blue rocket text */
+/*kbd.key.rocket ., /* yellow rocket text */
+span.eHufuM,
+span.CVTpG,
+.UdmLE,
+a.bzWSaV,
+a.bzWSaV.gkCedA,
+a.jCJQyV,
+a.jCJQyV.gkCedA {
+    color: #eeeeec;
+}
+
+.hYcgKU {
+    background-color: #fcaf3e
+}
+
+.bzWSaV,
+.jCJQyV {
+    background-color: #ce5c00;
+}
+.bzWSaV:hover,
+.jCJQyV:hover {
+    background-color: #204a87;
+}
+
+span.eHufuM,
+a.ibggPU,
+a.iFvezu,
+a.dmcLcA {
+    background-color: #555753;
+}
+
+.raJhJ {
+    background-color: #5c3566;
+}
+
+.iFvezu,
+.kQVHcx,
+.ibggPU,
+.dWCmEq,
+.cMYnJx,
+.fDScuo,
+.ihxVbQ,
+.fuQuTY,
+.gNxFnR,
+.cVYKqy {
+    border-color: #888a85;
+}
+
+.gdMFfB {
+    border-bottom-color: #888a85;
+}
+
+kbd > a > div > svg > path {
+    stroke: #888a85;
+}
+
+.rc-slider-mark-text-active {
+    color: #babdb6;
+}
+
+.bOQzeY,
+/* Read-Only Popup Overlay */
+.fVqMqN,
+/* Read-Only Popup Macro Tab Overlay */
+.overlay-popover {
+    background: #0000007f;
+}
+
+a.dmcLcA {
+    border-bottom: 1px solid #eeeeec;
+}
+}
